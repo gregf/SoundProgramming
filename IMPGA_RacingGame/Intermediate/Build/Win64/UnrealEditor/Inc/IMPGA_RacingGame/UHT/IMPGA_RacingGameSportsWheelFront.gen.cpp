@@ -107,15 +107,15 @@ UIMPGA_RacingGameSportsWheelFront::~UIMPGA_RacingGameSportsWheelFront() {}
 // ********** End Class UIMPGA_RacingGameSportsWheelFront ******************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_Statics
+struct Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UIMPGA_RacingGameSportsWheelFront, UIMPGA_RacingGameSportsWheelFront::StaticClass, TEXT("UIMPGA_RacingGameSportsWheelFront"), &Z_Registration_Info_UClass_UIMPGA_RacingGameSportsWheelFront, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UIMPGA_RacingGameSportsWheelFront), 497677746U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_3639185654{
+}; // Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_3639185654{
 	TEXT("/Script/IMPGA_RacingGame"),
-	Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_SportsCar_IMPGA_RacingGameSportsWheelFront_h__Script_IMPGA_RacingGame_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

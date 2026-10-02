@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AIMPGA_RacingGameGameMode_Statics;
 IMPGA_RACINGGAME_API UClass* Z_Construct_UClass_AIMPGA_RacingGameGameMode_NoRegister();
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAIMPGA_RacingGameGameMode(); \
 	friend struct ::Z_Construct_UClass_AIMPGA_RacingGameGameMode_Statics; \
@@ -31,7 +31,7 @@ public: \
 	DECLARE_SERIALIZER(AIMPGA_RacingGameGameMode)
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AIMPGA_RacingGameGameMode(AIMPGA_RacingGameGameMode&&) = delete; \
 	AIMPGA_RacingGameGameMode(const AIMPGA_RacingGameGameMode&) = delete; \
@@ -41,12 +41,12 @@ public: \
 	NO_API virtual ~AIMPGA_RacingGameGameMode();
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_9_PROLOG
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_GENERATED_BODY \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_9_PROLOG
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,6 +56,6 @@ class AIMPGA_RacingGameGameMode;
 // ********** End Class AIMPGA_RacingGameGameMode **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h
+#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGameGameMode_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

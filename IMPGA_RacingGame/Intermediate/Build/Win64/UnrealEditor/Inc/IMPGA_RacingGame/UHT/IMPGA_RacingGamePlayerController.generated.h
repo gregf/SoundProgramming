@@ -18,14 +18,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class AActor;
 
 // ********** Begin Class AIMPGA_RacingGamePlayerController ****************************************
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnPawnDestroyed);
 
 
 struct Z_Construct_UClass_AIMPGA_RacingGamePlayerController_Statics;
 IMPGA_RACINGGAME_API UClass* Z_Construct_UClass_AIMPGA_RacingGamePlayerController_NoRegister();
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_INCLASS_NO_PURE_DECLS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAIMPGA_RacingGamePlayerController(); \
 	friend struct ::Z_Construct_UClass_AIMPGA_RacingGamePlayerController_Statics; \
@@ -36,7 +36,7 @@ public: \
 	DECLARE_SERIALIZER(AIMPGA_RacingGamePlayerController)
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_ENHANCED_CONSTRUCTORS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AIMPGA_RacingGamePlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -48,13 +48,13 @@ public: \
 	NO_API virtual ~AIMPGA_RacingGamePlayerController();
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_17_PROLOG
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_GENERATED_BODY \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_17_PROLOG
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_INCLASS_NO_PURE_DECLS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_ENHANCED_CONSTRUCTORS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_INCLASS_NO_PURE_DECLS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,6 +64,6 @@ class AIMPGA_RacingGamePlayerController;
 // ********** End Class AIMPGA_RacingGamePlayerController ******************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h
+#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePlayerController_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

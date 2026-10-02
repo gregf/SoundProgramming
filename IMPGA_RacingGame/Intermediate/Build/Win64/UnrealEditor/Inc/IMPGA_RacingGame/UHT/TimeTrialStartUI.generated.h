@@ -17,22 +17,22 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Delegate FCountdownFinishedDelegate ********************************************
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_9_DELEGATE \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_9_DELEGATE \
 IMPGA_RACINGGAME_API void FCountdownFinishedDelegate_DelegateWrapper(const FMulticastScriptDelegate& CountdownFinishedDelegate);
 
 
 // ********** End Delegate FCountdownFinishedDelegate **********************************************
 
 // ********** Begin Class UTimeTrialStartUI ********************************************************
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execFinishCountdown);
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_CALLBACK_WRAPPERS
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_CALLBACK_WRAPPERS
 struct Z_Construct_UClass_UTimeTrialStartUI_Statics;
 IMPGA_RACINGGAME_API UClass* Z_Construct_UClass_UTimeTrialStartUI_NoRegister();
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_INCLASS_NO_PURE_DECLS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUTimeTrialStartUI(); \
 	friend struct ::Z_Construct_UClass_UTimeTrialStartUI_Statics; \
@@ -43,7 +43,7 @@ public: \
 	DECLARE_SERIALIZER(UTimeTrialStartUI)
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_ENHANCED_CONSTRUCTORS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UTimeTrialStartUI(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -55,14 +55,14 @@ public: \
 	NO_API virtual ~UTimeTrialStartUI();
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_16_PROLOG
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_GENERATED_BODY \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_16_PROLOG
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_CALLBACK_WRAPPERS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_INCLASS_NO_PURE_DECLS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_ENHANCED_CONSTRUCTORS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_CALLBACK_WRAPPERS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_INCLASS_NO_PURE_DECLS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -72,6 +72,6 @@ class UTimeTrialStartUI;
 // ********** End Class UTimeTrialStartUI **********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h
+#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_UI_TimeTrialStartUI_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

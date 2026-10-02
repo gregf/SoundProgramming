@@ -18,7 +18,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class AActor;
 
 // ********** Begin Class ATimeTrialPlayerController ***********************************************
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnPawnDestroyed); \
 	DECLARE_FUNCTION(execStartRace);
 
@@ -26,7 +26,7 @@ class AActor;
 struct Z_Construct_UClass_ATimeTrialPlayerController_Statics;
 IMPGA_RACINGGAME_API UClass* Z_Construct_UClass_ATimeTrialPlayerController_NoRegister();
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_INCLASS_NO_PURE_DECLS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATimeTrialPlayerController(); \
 	friend struct ::Z_Construct_UClass_ATimeTrialPlayerController_Statics; \
@@ -37,7 +37,7 @@ public: \
 	DECLARE_SERIALIZER(ATimeTrialPlayerController)
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_ENHANCED_CONSTRUCTORS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ATimeTrialPlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -49,13 +49,13 @@ public: \
 	NO_API virtual ~ATimeTrialPlayerController();
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_18_PROLOG
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_GENERATED_BODY \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_18_PROLOG
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_INCLASS_NO_PURE_DECLS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_ENHANCED_CONSTRUCTORS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_INCLASS_NO_PURE_DECLS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -65,6 +65,6 @@ class ATimeTrialPlayerController;
 // ********** End Class ATimeTrialPlayerController *************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h
+#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

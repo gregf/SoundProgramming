@@ -107,15 +107,15 @@ UIMPGA_RacingGameOffroadWheelFront::~UIMPGA_RacingGameOffroadWheelFront() {}
 // ********** End Class UIMPGA_RacingGameOffroadWheelFront *****************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_Statics
+struct Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UIMPGA_RacingGameOffroadWheelFront, UIMPGA_RacingGameOffroadWheelFront::StaticClass, TEXT("UIMPGA_RacingGameOffroadWheelFront"), &Z_Registration_Info_UClass_UIMPGA_RacingGameOffroadWheelFront, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UIMPGA_RacingGameOffroadWheelFront), 4147060132U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_133035583{
+}; // Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_133035583{
 	TEXT("/Script/IMPGA_RacingGame"),
-	Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_OffroadCar_IMPGA_RacingGameOffroadWheelFront_h__Script_IMPGA_RacingGame_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class AIMPGA_RacingGamePawn ****************************************************
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execFlippedCheck); \
 	DECLARE_FUNCTION(execDoResetVehicle); \
 	DECLARE_FUNCTION(execDoToggleCamera); \
@@ -31,11 +31,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execDoSteering);
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_CALLBACK_WRAPPERS
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_CALLBACK_WRAPPERS
 struct Z_Construct_UClass_AIMPGA_RacingGamePawn_Statics;
 IMPGA_RACINGGAME_API UClass* Z_Construct_UClass_AIMPGA_RacingGamePawn_NoRegister();
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_INCLASS_NO_PURE_DECLS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAIMPGA_RacingGamePawn(); \
 	friend struct ::Z_Construct_UClass_AIMPGA_RacingGamePawn_Statics; \
@@ -46,7 +46,7 @@ public: \
 	DECLARE_SERIALIZER(AIMPGA_RacingGamePawn)
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_ENHANCED_CONSTRUCTORS \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AIMPGA_RacingGamePawn(AIMPGA_RacingGamePawn&&) = delete; \
 	AIMPGA_RacingGamePawn(const AIMPGA_RacingGamePawn&) = delete; \
@@ -56,14 +56,14 @@ public: \
 	NO_API virtual ~AIMPGA_RacingGamePawn();
 
 
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_22_PROLOG
-#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_GENERATED_BODY \
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_22_PROLOG
+#define FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_CALLBACK_WRAPPERS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_INCLASS_NO_PURE_DECLS \
-	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_ENHANCED_CONSTRUCTORS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_CALLBACK_WRAPPERS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_INCLASS_NO_PURE_DECLS \
+	FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -73,6 +73,6 @@ class AIMPGA_RacingGamePawn;
 // ********** End Class AIMPGA_RacingGamePawn ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h
+#define CURRENT_FILE_ID FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_IMPGA_RacingGamePawn_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

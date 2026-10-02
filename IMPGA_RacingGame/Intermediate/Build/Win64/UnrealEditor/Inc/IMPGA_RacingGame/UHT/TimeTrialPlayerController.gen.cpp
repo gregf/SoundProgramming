@@ -405,15 +405,15 @@ ATimeTrialPlayerController::~ATimeTrialPlayerController() {}
 // ********** End Class ATimeTrialPlayerController *************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_Statics
+struct Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ATimeTrialPlayerController, ATimeTrialPlayerController::StaticClass, TEXT("ATimeTrialPlayerController"), &Z_Registration_Info_UClass_ATimeTrialPlayerController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATimeTrialPlayerController), 2375092099U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_390029162{
+}; // Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_390029162{
 	TEXT("/Script/IMPGA_RacingGame"),
-	Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_fasgr_Desktop_Games_engine_Unreal_Projects_SoundProgramming_IMPGA_RacingGame_Source_IMPGA_RacingGame_Variant_TimeTrial_TimeTrialPlayerController_h__Script_IMPGA_RacingGame_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };
