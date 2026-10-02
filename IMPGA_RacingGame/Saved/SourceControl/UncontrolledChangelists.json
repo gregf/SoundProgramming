@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fasgr/Desktop/Games/engine/Unreal Projects/IMPGA_RacingGame/Content/Vehicles/SportsCar/Materials/MI_SportsCarBody.uasset",
+				"C:/Users/fasgr/Desktop/Games/engine/Unreal Projects/IMPGA_RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/D/E4/C3QVWNPHELJ6N8HFQQ0MQL.uasset",
+				"C:/Users/fasgr/Desktop/Games/engine/Unreal Projects/IMPGA_RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleBasic/F/2B/P3K8F61TNAX5YJ9MT3BWDO.uasset",
+				"C:/Users/fasgr/Desktop/Games/engine/Unreal Projects/IMPGA_RacingGame/Content/VehicleTemplate/Blueprints/SportsCar/BP_SportsCar_Pawn.uasset",
+				"C:/Users/fasgr/Desktop/Games/engine/Unreal Projects/IMPGA_RacingGame/Content/Sound/Superchargedv8v3.uasset",
+				"C:/Users/fasgr/Desktop/Games/engine/Unreal Projects/IMPGA_RacingGame/Content/Sound/Superchargedv8v4.uasset"
+			]
+		}
+	]
+}

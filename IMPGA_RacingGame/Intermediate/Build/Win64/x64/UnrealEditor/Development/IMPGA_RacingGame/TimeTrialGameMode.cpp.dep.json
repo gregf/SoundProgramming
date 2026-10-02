@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\source\\impga_racinggame\\variant_timetrial\\timetrialgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\intermediate\\build\\win64\\x64\\impga_racinggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\impga_racinggame\\definitions.impga_racinggame.h",
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\source\\impga_racinggame\\variant_timetrial\\timetrialgamemode.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\impga_racinggame\\uht\\timetrialgamemode.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreuobject\\uht\\propertyaccessutil.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\source\\impga_racinggame\\variant_timetrial\\timetrialtrackgate.h",
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\impga_racinggame\\uht\\timetrialtrackgate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\IMPGA_RacingGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IMPGA_RacingGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\IMPGA_RacingGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\IMPGA_RacingGame">
+      <UniqueIdentifier>{A6081293-ACF7-393F-940C-327DCC67E6DB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGame.Build.cs">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGame.cpp">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGame.h">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGameGameMode.cpp">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGameGameMode.h">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGamePawn.cpp">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGamePawn.h">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGamePlayerController.cpp">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGamePlayerController.h">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGameSportsCar.cpp">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGameUI.cpp">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGameUI.h">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGameWheelFront.cpp">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGameWheelFront.h">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGameWheelRear.cpp">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\IMPGA_RacingGameWheelRear.h">
+      <Filter>Source\IMPGA_RacingGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\IMPGA_RacingGame\OffroadCar">
+      <UniqueIdentifier>{F13FDFAC-8C84-316D-B373-6DDD71895E84}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\OffroadCar\IMPGA_RacingGameOffroadCar.cpp">
+      <Filter>Source\IMPGA_RacingGame\OffroadCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\OffroadCar\IMPGA_RacingGameOffroadCar.h">
+      <Filter>Source\IMPGA_RacingGame\OffroadCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\OffroadCar\IMPGA_RacingGameOffroadWheelFront.cpp">
+      <Filter>Source\IMPGA_RacingGame\OffroadCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\OffroadCar\IMPGA_RacingGameOffroadWheelFront.h">
+      <Filter>Source\IMPGA_RacingGame\OffroadCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\OffroadCar\IMPGA_RacingGameOffroadWheelRear.cpp">
+      <Filter>Source\IMPGA_RacingGame\OffroadCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\OffroadCar\IMPGA_RacingGameOffroadWheelRear.h">
+      <Filter>Source\IMPGA_RacingGame\OffroadCar</Filter>
+    </ClInclude>
+    <Filter Include="Source\IMPGA_RacingGame\SportsCar">
+      <UniqueIdentifier>{650F3137-DB1D-34F2-AE24-E9D152368B46}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\SportsCar\IMPGA_RacingGameSportsCar.h">
+      <Filter>Source\IMPGA_RacingGame\SportsCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\SportsCar\IMPGA_RacingGameSportsWheelFront.cpp">
+      <Filter>Source\IMPGA_RacingGame\SportsCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\SportsCar\IMPGA_RacingGameSportsWheelFront.h">
+      <Filter>Source\IMPGA_RacingGame\SportsCar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\SportsCar\IMPGA_RacingGameSportsWheelRear.cpp">
+      <Filter>Source\IMPGA_RacingGame\SportsCar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\SportsCar\IMPGA_RacingGameSportsWheelRear.h">
+      <Filter>Source\IMPGA_RacingGame\SportsCar</Filter>
+    </ClInclude>
+    <Filter Include="Source\IMPGA_RacingGame\Variant_OffRoad">
+      <UniqueIdentifier>{654F5732-CEC0-3F61-BC90-B9FDB63E855F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\Variant_OffRoad\OffroadGameMode.cpp">
+      <Filter>Source\IMPGA_RacingGame\Variant_OffRoad</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\Variant_OffRoad\OffroadGameMode.h">
+      <Filter>Source\IMPGA_RacingGame\Variant_OffRoad</Filter>
+    </ClInclude>
+    <Filter Include="Source\IMPGA_RacingGame\Variant_TimeTrial">
+      <UniqueIdentifier>{6224C527-D431-344B-A626-7F97F24997BB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\TimeTrialGameMode.cpp">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\TimeTrialGameMode.h">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\TimeTrialPlayerController.cpp">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\TimeTrialPlayerController.h">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\TimeTrialTrackGate.cpp">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\TimeTrialTrackGate.h">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial</Filter>
+    </ClInclude>
+    <Filter Include="Source\IMPGA_RacingGame\Variant_TimeTrial\UI">
+      <UniqueIdentifier>{F723C486-B5F6-3940-B80E-E2B7EA52096A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\UI\TimeTrialStartUI.cpp">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\UI\TimeTrialStartUI.h">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\UI\TimeTrialUI.cpp">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IMPGA_RacingGame\Variant_TimeTrial\UI\TimeTrialUI.h">
+      <Filter>Source\IMPGA_RacingGame\Variant_TimeTrial\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

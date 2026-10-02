@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\source\\impga_racinggame\\variant_timetrial\\timetrialtrackgate.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\intermediate\\build\\win64\\x64\\impga_racinggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\impga_racinggame\\definitions.impga_racinggame.h",
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\source\\impga_racinggame\\variant_timetrial\\timetrialtrackgate.h",
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\impga_racinggame\\uht\\timetrialtrackgate.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\source\\impga_racinggame\\variant_timetrial\\timetrialplayercontroller.h",
+            "c:\\users\\fasgr\\desktop\\games\\engine\\unreal projects\\impga_racinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\impga_racinggame\\uht\\timetrialplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
