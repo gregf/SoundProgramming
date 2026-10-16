@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMPGA_RacingGameModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f2ecabd887471456b683c33b931ab88668a86c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+753a4bbb4a9ca5ae0d755efe0c75a93e134960ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMPGA_RacingGameModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMPGA_RacingGameModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

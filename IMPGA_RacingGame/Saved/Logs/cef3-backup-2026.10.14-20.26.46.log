@@ -1,0 +1,36 @@
+[33008:38308:1014/181944.680:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[33008:37456:1014/181944.906:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[33008:38308:1014/181945.038:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33008:38308:1014/181955.153:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/181956.820:ERROR:device_event_log_impl.cc(196)] [18:19:56.497] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13284:19576:1014/181957.499:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B19896376C90F0F9D86417DD7317A85D will be ignored
+[33008:38308:1014/181959.821:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/182050.192:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/182110.223:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/182150.682:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/182156.008:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/191116.276:ERROR:device_event_log_impl.cc(196)] [19:11:16.227] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33008:38308:1014/193357.104:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193412.229:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193417.230:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193422.231:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193428.180:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193433.183:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193552.315:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193557.346:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193602.345:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193607.358:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193612.397:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193617.415:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193622.472:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193627.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193632.556:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193637.583:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193642.612:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193647.654:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193652.673:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193657.915:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/193718.635:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33008:38308:1014/204104.172:ERROR:device_event_log_impl.cc(196)] [20:41:04.130] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17116:16628:1014/211154.058:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-B1779D28F85A31EE83D491F7D387988A will be ignored
+[33008:38308:1014/212646.530:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0

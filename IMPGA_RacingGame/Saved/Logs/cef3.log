@@ -1,6 +1,7 @@
-[31768:9244:1002/213901.914:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[31768:1248:1002/213902.138:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[31768:9244:1002/213902.247:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[31768:9244:1002/213913.250:ERROR:device_event_log_impl.cc(196)] [21:39:12.931] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[2288:31448:1002/213913.924:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4CEAEE856A46EB16DD6582E1A83D3A1E will be ignored
-[31768:9244:1002/213953.903:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14880:26216:1016/101233.954:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14880:17060:1016/101234.243:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14880:26216:1016/101234.367:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14880:26216:1016/101249.832:ERROR:device_event_log_impl.cc(196)] [10:12:49.170] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19900:24744:1016/101249.844:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3E90DAC5A17B9A89F061D2468D5AF1EB will be ignored
+[14880:26216:1016/101332.782:ERROR:device_event_log_impl.cc(196)] [10:13:32.781] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[14880:26216:1016/104328.688:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
