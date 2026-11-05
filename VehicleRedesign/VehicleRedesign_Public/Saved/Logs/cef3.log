@@ -1,0 +1,67 @@
+[11692:22796:1105/173318.783:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11692:26532:1105/173318.874:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11692:22796:1105/173318.892:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[34164:20192:1105/173324.348:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-23A29AE40C7977F873734CD5AF6E742D will be ignored
+[11692:22796:1105/173325.019:ERROR:device_event_log_impl.cc(196)] [17:33:24.683] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6820:23464:1105/173327.202:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6820:13432:1105/173327.239:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6820:13432:1105/173327.240:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6820:13432:1105/173327.240:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23792:10600:1105/173327.389:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[23792:10600:1105/173327.391:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[23792:10600:1105/173327.391:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[23792:10600:1105/173327.391:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[6820:13432:1105/173327.391:WARNING:stun_port.cc(442)] Port[16ad800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6820:13432:1105/173327.391:WARNING:stun_port.cc(442)] Port[16ae000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6820:13432:1105/173327.391:WARNING:stun_port.cc(442)] Port[16ae800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23792:10600:1105/173327.392:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[23792:10600:1105/173327.407:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[23792:10600:1105/173327.425:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[23792:10600:1105/173327.425:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[23792:10600:1105/173327.425:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[23792:10600:1105/173327.430:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[23792:10600:1105/173327.430:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[23792:10600:1105/173327.430:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[6820:13432:1105/173327.731:WARNING:stun_port.cc(442)] Port[16ad800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6820:13432:1105/173327.731:WARNING:stun_port.cc(442)] Port[16ae000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6820:13432:1105/173327.731:WARNING:stun_port.cc(442)] Port[16ae800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6820:13432:1105/173327.732:WARNING:stun_port.cc(442)] Port[16ad800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6820:13432:1105/173327.732:WARNING:stun_port.cc(442)] Port[16ae000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6820:13432:1105/173327.732:WARNING:stun_port.cc(442)] Port[16ae800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[11692:26296:1105/173327.817:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[11692:22796:1105/173327.911:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11692:22796:1105/173327.911:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11692:22796:1105/173327.911:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11692:22796:1105/173327.911:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[11692:26296:1105/173327.915:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6724:12308:1105/173328.111:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6724:15860:1105/173328.181:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6724:15860:1105/173328.182:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6724:15860:1105/173328.183:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23792:10600:1105/173328.275:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[23792:10600:1105/173328.276:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[23792:10600:1105/173328.276:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[23792:10600:1105/173328.276:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[23792:10600:1105/173328.277:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[6724:15860:1105/173328.277:WARNING:stun_port.cc(442)] Port[1c8c400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6724:15860:1105/173328.277:WARNING:stun_port.cc(442)] Port[1c8e400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6724:15860:1105/173328.277:WARNING:stun_port.cc(442)] Port[1c8ec00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23792:10600:1105/173328.278:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[23792:10600:1105/173328.278:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[23792:10600:1105/173328.278:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[6724:15860:1105/173328.278:WARNING:stun_port.cc(442)] Port[1c8c400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6724:15860:1105/173328.278:WARNING:stun_port.cc(442)] Port[1c8e400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6724:15860:1105/173328.278:WARNING:stun_port.cc(442)] Port[1c8ec00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23792:10600:1105/173328.287:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[23792:10600:1105/173328.287:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[23792:10600:1105/173328.287:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[23792:10600:1105/173328.287:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[6724:15860:1105/173328.287:WARNING:stun_port.cc(442)] Port[1c8c400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6724:15860:1105/173328.287:WARNING:stun_port.cc(442)] Port[1c8e400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6724:15860:1105/173328.287:WARNING:stun_port.cc(442)] Port[1c8ec00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[6724:12308:1105/173330.452:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31864:28496:1105/173538.310:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[11692:22796:1105/180841.985:ERROR:device_event_log_impl.cc(196)] [18:08:41.870] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[11692:22796:1105/180903.323:ERROR:device_event_log_impl.cc(196)] [18:09:03.160] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[11692:22796:1105/183054.368:ERROR:device_event_log_impl.cc(196)] [18:30:54.246] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[11692:22796:1105/184321.291:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
